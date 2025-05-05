@@ -1,8 +1,10 @@
 ## Terve nimeni on Kristian Sykiäinen 👋
 
-Olen opiskelija Jyväskylästä Viitaniemen Gradiasta
-
-Opiskelen sovellusohjelmoijaksi
+📍 Jyväskylä, Suomi  
+🎓 Opiskelija – Sovellusohjelmointi, Gradia Viitaniemi  
+📧 [grandiskristian@gmail.com]  
+📱 [0403281411]  
+🔗 [GitHub](https://github.com/kristian435)
 
 
 <h3 align="left">Osaamiseni:</h3>
