@@ -1,25 +1,20 @@
 ## Terve nimeni on Kristian Sykiäinen 👋
 
-📍 Jyväskylä, Suomi  
+📍 [Jyväskylä](https://www.bing.com/maps?q=jkl+kartta&FORM=HDRSC7&cp=62.120171%7E25.689349&lvl=9.0)
+
 🎓 Opiskelija – Sovellusohjelmointi, Gradia Viitaniemi  
-📧 [grandiskristian@gmail.com]  
-📱 [0403281411]  
+
+📧 grandiskristian@gmail.com  
+
+📱 Puhelin - 0403281411  
+
 🔗 [GitHub](https://github.com/kristian435)
 
+---
 
-<h3 align="left">Osaamiseni:</h3>
+##Profiili
+
+Olen motivoitunut sovellusohjelmoinnin opiskelija Jyväskylästä. Opiskelen Gradia Viitaniemessä ja kehityn jatkuvasti erityisesti C#- ja .NET. Olen kiinnostunut ohjelmistokehityksestä ja haluan työskennellä projekteissa, joissa pääsen ratkomaan käytännön ongelmia ja oppimaan uutta. 😁
+
+<h3 align="left">Ohjelmointikielet ja työkalut:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<!--
-**kristian435/kristian435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
