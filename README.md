@@ -28,7 +28,7 @@ Olen motivoitunut sovellusohjelmoinnin opiskelija Jyväskylästä. Opiskelen Gra
 
 ## Projekti
 **HarjoitusProjekti**
-- Windows Forms Pohjainen MVP-arkkitehtuuria toteuttava [MuistiPeli](https://github.com/kristian435/Muistipeli)) C#:lla
+- Windows Forms Pohjainen MVP-arkkitehtuuria toteuttava [MuistiPeli](https://github.com/kristian435/MuistiPeli)) C#:lla
 
 
 
