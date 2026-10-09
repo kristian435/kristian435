@@ -8,11 +8,6 @@
 
 ---
 
-## Profiili
-
-Olen motivoitunut sovellusohjelmoinnin opiskelija Jyväskylästä. Opiskelen Gradia Viitaniemessä ja kehityn jatkuvasti erityisesti C# .NET parissa.
-
----
 
 ## Osaamiseni
 
